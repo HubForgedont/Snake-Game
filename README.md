@@ -6,7 +6,6 @@
 
 A classic Snake game implementation using Python and Pygame. Slither your way to victory! 🏆
 
-![Snake Game Demo](https://i.imgur.com/JLZgFLT.gif)
 
 ## ✨ Features
 
